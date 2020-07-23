@@ -9,6 +9,6 @@ In this project I have constructed a recurrent neural network for the purpose of
 
 ## Further Instructions
 
-Other details are mentioned in the project Notebook.
+Other details are mentioned in the project's Notebook.
 
 Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook.
